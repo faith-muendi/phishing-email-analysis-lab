@@ -102,7 +102,9 @@ Report abuse to ProtonMail.
 
 🔹 Conclusion
 
-This lab demonstrated a phishing attempt where attackers used ProtonMail servers to spoof Chase Bank. By analyzing the headers, IPs, and authentication checks, we uncovered the deception and documented the attack path.
+This lab demonstrated a phishing attempt where attackers used ProtonM<img width="1280" height="771" alt="Screenshot From 2025-08-16 10-15-00" src="https://github.com/user-attachments/assets/3c6f4c00-ee97-4a45-886d-c6cd373bbbc6" />
+<img width="1280" height="771" alt="Screenshot From 2025-08-16 10-15-00" src="https://github.com/user-attachments/assets/8fb3ac3d-c74e-4238-94cb-f6fdc68829f9" />
+ail servers to spoof Chase Bank. By analyzing the headers, IPs, and authentication checks, we uncovered the deception and documented the attack path.
 
 📌 Skills Showcased:
 
@@ -114,11 +116,3 @@ Understanding SPF, DKIM, DMARC
 
 Phishing detection & reporting
 
-👉 Next Steps: You can upload this write-up into your GitHub portfolio under a folder like Email-Phishing-Labs with:
-
-README.md (this documentation)
-
-Sample header logs (sanitized text file)
-
-Diagram (mail flow visualization, optional)<img width="1280" height="771" alt="Screenshot From 2025-08-16 08-28-50" src="https://github.com/user-attachments/assets/2bc47a09-f03f-491d-8e5d-d451a711298c" />
-<img width="1176" height="667" alt="phishing email" src="https://github.com/user-attachments/assets/c41ab971-8dd5-4b2e-88a9-56ff667f660e" />
